@@ -1,4 +1,4 @@
-section {
+.entrance-section {
   /* background: #ffa1a1;
   background: radial-gradient(
     circle,
@@ -18,12 +18,12 @@ section {
   font-family: "Spectral", serif;
 }
 
-section h1 {
+.entrance-section h1 {
   text-align: center;
   font-size: 3em;
 }
 
-section button {
+.entrance-section button {
   border: 0;
   padding: 0.4em 0.8em;
   font-size: 2em;
